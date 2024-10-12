@@ -1,0 +1,41 @@
+
+a{
+    color: rgb(0, 238, 255);
+   size-adjust: 500px;
+
+}
+h1,h2{
+text-align:center;  
+color: #000000;   
+text-shadow:#000000 2px 2px 5px;
+font-size: 40px;
+
+    }
+
+body{
+    background-image: url(2add79893d7c226b4b77e3c6d2461f24.jpg);
+    
+    background-position-x: 40%;
+    
+    background-color: #000000;
+    
+}
+    
+
+
+.box {
+    
+    width: 30%;
+    font-size: 20px;
+    padding:5px;
+    background-color: #0d6b6ec5;
+    color: azure;
+    
+}
+.notes{
+    font-size: 30px;
+    text-align: left;
+    color: #0084ff;
+}
+
+
